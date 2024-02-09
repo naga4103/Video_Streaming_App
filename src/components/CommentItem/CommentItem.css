@@ -1,0 +1,8 @@
+.first-letter-css{
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+    font-weight:bold;
+    border-radius: 15px;
+    text-align: center;
+}
